@@ -6,5 +6,5 @@ It just has a function of showing pictures of diamonds.
 
 ## ScreenShots
 
-![android_screenshot](./assets/images/android.png){: width="auto" height="250px"}  
-![iOS_screenshot](./assets/images/iOS.png){: width="auto" height="250px"}
+<img src="./assets/images/android.png" width="250">
+<img src="./assets/images/iOS.png" width="250">
